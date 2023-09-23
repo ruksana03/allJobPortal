@@ -3,15 +3,17 @@ import { NavLink } from "react-router-dom";
 const Header = () => {
 
     const links = <>
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/jobs'>Jobs</NavLink></li>
-        <li><NavLink to= '/applied'>Applied Jobs</NavLink></li>
-        <li><NavLink to= '/statistics'>Statistics</NavLink></li>
-        <li><NavLink to= '/blogs'>Blogs</NavLink></li>
-       
+        <div className="flex gap-2">
+            <li className="text-[#757575] font-semibold font-['Manrope'] text-base"><NavLink to='/statistics'>Statistics</NavLink></li>
+            <li className="text-[#757575] font-semibold font-['Manrope'] text-base"><NavLink to='/applied'>Applied Jobs</NavLink></li>
+            <li className="text-[#757575] font-semibold font-['Manrope'] text-base"><NavLink to='/blogs'>Blogs</NavLink></li>
+            <li className="text-[#757575] font-semibold font-['Manrope'] text-base"><NavLink to='/'>Home</NavLink></li>
+            <li className="text-[#757575] font-semibold font-['Manrope'] text-base"><NavLink to='/jobs'>Jobs</NavLink></li>
+        </div>
+
     </>
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar mb-10">
             <div className="navbar-start">
                 <div className="dropdown">
                     <label tabIndex={0} className="btn btn-ghost lg:hidden">
@@ -21,7 +23,7 @@ const Header = () => {
                         {links}
                     </ul>
                 </div>
-                <a className="btn btn-ghost normal-case text-xl">Career Hub</a>
+                <a className="btn btn-ghost normal-case text-4xl">Career Hub</a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1">
@@ -29,7 +31,7 @@ const Header = () => {
                 </ul>
             </div>
             <div className="navbar-end">
-                <a className="btn">Star Applying</a>
+                <a className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white font-extrabold text-lg font-['Manrope']">Start Applying</a>
             </div>
         </div>
     );

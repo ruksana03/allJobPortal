@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "blog_title": "Exploring React Hooks",
+    "blog_type": "Technology",
+    "date": "2023-01-15",
+    "description": "A deep dive into the world of React Hooks and how they simplify state management and component logic.",
+    "img": "https://example.com/blog1.jpg",
+    "logo": "https://example.com/logo1.png"
+  },
+  {
+    "id": 2,
+    "blog_title": "The Art of Storytelling",
+    "blog_type": "Creativity",
+    "date": "2023-02-10",
+    "description": "Discover the secrets of effective storytelling and how it can captivate your audience.",
+    "img": "https://example.com/blog2.jpg",
+    "logo": "https://example.com/logo2.png"
+  },
+  {
+    "id": 3,
+    "blog_title": "Healthy Eating Habits",
+    "blog_type": "Health",
+    "date": "2023-03-20",
+    "description": "Learn about the importance of maintaining healthy eating habits and their impact on your well-being.",
+    "img": "https://example.com/blog3.jpg",
+    "logo": "https://example.com/logo3.png"
+  },
+  {
+    "id": 4,
+    "blog_title": "Mastering Python",
+    "blog_type": "Technology",
+    "date": "2023-04-05",
+    "description": "Tips and tricks to become a Python master and write efficient and clean code.",
+    "img": "https://example.com/blog4.jpg",
+    "logo": "https://example.com/logo4.png"
+  },
+  {
+    "id": 5,
+    "blog_title": "Traveling on a Budget",
+    "blog_type": "Travel",
+    "date": "2023-05-12",
+    "description": "Explore ways to travel the world without breaking the bank and experience unforgettable adventures.",
+    "img": "https://example.com/blog5.jpg",
+    "logo": "https://example.com/logo5.png"
+  },
+  {
+    "id": 6,
+    "blog_title": "The Art of Photography",
+    "blog_type": "Creativity",
+    "date": "2023-06-28",
+    "description": "Unlock the secrets of photography and capture breathtaking moments with your camera.",
+    "img": "https://example.com/blog6.jpg",
+    "logo": "https://example.com/logo6.png"
+  },
+  {
+    "id": 7,
+    "blog_title": "Healthy Mind, Healthy Life",
+    "blog_type": "Health",
+    "date": "2023-07-19",
+    "description": "Discover the connection between mental health and overall well-being and ways to maintain a healthy mind.",
+    "img": "https://example.com/blog7.jpg",
+    "logo": "https://example.com/logo7.png"
+  },
+  {
+    "id": 8,
+    "blog_title": "Web Development Trends",
+    "blog_type": "Technology",
+    "date": "2023-08-07",
+    "description": "Stay updated on the latest web development trends and technologies shaping the digital world.",
+    "img": "https://example.com/blog8.jpg",
+    "logo": "https://example.com/logo8.png"
+  },
+  {
+    "id": 9,
+    "blog_title": "Exploring Nature's Wonders",
+    "blog_type": "Travel",
+    "date": "2023-09-14",
+    "description": "Embark on a journey to explore the wonders of nature, from majestic mountains to lush forests.",
+    "img": "https://example.com/blog9.jpg",
+    "logo": "https://example.com/logo9.png"
+  },
+  {
+    "id": 10,
+    "blog_title": "Healthy Recipes for Busy Lives",
+    "blog_type": "Health",
+    "date": "2023-10-02",
+    "description": "Find quick and nutritious recipes to maintain a balanced diet even with a busy lifestyle.",
+    "img": "https://example.com/blog10.jpg",
+    "logo": "https://example.com/logo10.png"
+  },
+  {
+    "id": 11,
+    "blog_title": "The World of Sci-Fi",
+    "blog_type": "Entertainment",
+    "date": "2023-11-09",
+    "description": "Dive into the realm of science fiction and explore futuristic worlds and mind-bending concepts.",
+    "img": "https://example.com/blog11.jpg",
+    "logo": "https://example.com/logo11.png"
+  },
+  {
+    "id": 12,
+    "blog_title": "Mastering Digital Marketing",
+    "blog_type": "Business",
+    "date": "2023-12-18",
+    "description": "Learn the strategies and tactics to become a digital marketing expert and drive business growth.",
+    "img": "https://example.com/blog12.jpg",
+    "logo": "https://example.com/logo12.png"
+  },
+  {
+    "id": 13,
+    "blog_title": "Culinary Adventures",
+    "blog_type": "Food",
+    "date": "2024-01-25",
+    "description": "Embark on a culinary journey to savor unique flavors and dishes from around the world.",
+    "img": "https://example.com/blog13.jpg",
+    "logo": "https://example.com/logo13.png"
+  },
+  {
+    "id": 14,
+    "blog_title": "The Art of Filmmaking",
+    "blog_type": "Creativity",
+    "date": "2024-02-11",
+    "description": "Explore the art and craft of filmmaking, from scriptwriting to cinematography.",
+    "img": "https://example.com/blog14.jpg",
+    "logo": "https://example.com/logo14.png"
+  },
+  {
+    "id": 15,
+    "blog_title": "Fitness and Wellness",
+    "blog_type": "Health",
+    "date": "2024-03-03",
+    "description": "Discover fitness routines and wellness practices to lead a healthier and happier life.",
+    "img": "https://example.com/blog15.jpg",
+    "logo": "https://example.com/logo15.png"
+  }
+]
